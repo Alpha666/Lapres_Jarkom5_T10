@@ -28,6 +28,11 @@ Jadi yang saya butuhkan :
 ![routingkediri](/image/routing_kediri.png)
 
 # DHCP Server
+## Setup DHCP Mojokerto
+
+![mojokerto](/image/dhcp_config.png)
+
+## Setup DHCP Relay
 ![relaysby](/image/dchp_relay_surabaya.png)
 ![relaybatu](/image/dhcp_relay_batu.png)
 ![relaykediri](/image/dhcp_relay.png)
